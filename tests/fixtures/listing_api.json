@@ -1,0 +1,115 @@
+{
+ "is_success": true,
+ "response": {
+  "snippets": [
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "1004"
+     },
+     "product_id": "1004",
+     "merchant_id": "90001",
+     "name": {
+      "text": "Example Popcorn"
+     },
+     "display_name": {
+      "text": "Example Popcorn"
+     },
+     "brand_name": {
+      "text": "Contoso Foods"
+     },
+     "variant": {
+      "text": "90 g"
+     },
+     "normal_price": {
+      "text": "\u20b930"
+     },
+     "mrp": {
+      "text": "\u20b935"
+     },
+     "inventory": 12,
+     "is_sold_out": false,
+     "product_state": "available",
+     "image": {
+      "url": "https://cdn.example.com/p/1004.png"
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 1004,
+        "merchant_id": 90001,
+        "product_name": "Example Popcorn",
+        "price": 30,
+        "mrp": 35,
+        "unit": "90 g",
+        "inventory": 12,
+        "brand": "Contoso Foods"
+       }
+      }
+     },
+     "variant_list": [],
+     "rating": {
+      "type": "bar",
+      "bar": {
+       "value": 3.9,
+       "title": {
+        "text": "15k"
+       }
+      }
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "1002"
+     },
+     "product_id": "1002",
+     "merchant_id": "90001",
+     "name": {
+      "text": "Example Masala Crisps"
+     },
+     "display_name": {
+      "text": "Example Masala Crisps"
+     },
+     "brand_name": {
+      "text": "Northwind Snacks"
+     },
+     "variant": {
+      "text": "52 g"
+     },
+     "normal_price": {
+      "text": "\u20b920"
+     },
+     "mrp": {
+      "text": "\u20b920"
+     },
+     "inventory": 50,
+     "is_sold_out": false,
+     "product_state": "available",
+     "image": {
+      "url": "https://cdn.example.com/p/1002.png"
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 1002,
+        "merchant_id": 90001,
+        "product_name": "Example Masala Crisps",
+        "price": 20,
+        "mrp": 20,
+        "unit": "52 g",
+        "inventory": 50,
+        "brand": "Northwind Snacks"
+       }
+      }
+     },
+     "variant_list": []
+    }
+   }
+  ],
+  "pagination": {}
+ }
+}
